@@ -28,7 +28,7 @@ Aby uruchomić grę lokalnie, wykonaj poniższe kroki:
 
 3. Sklonuj repozytorium gry:
    ```
-   
+   git clone https://github.com/lkzs2003/alien_invasion.git
    cd alien_invasion
    ```
 
